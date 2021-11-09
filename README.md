@@ -1,5 +1,5 @@
-#sample messaging microservice
-example of a simple rest API service 
+A messaging microservice sample 
+
 
 ## build and run
 
